@@ -137,9 +137,14 @@ void IRPAIR()
 
 
 ## OUTPUT
-<img width="1063" height="1033" alt="image" src="https://github.com/user-attachments/assets/8448605d-48ec-4f23-a582-194a41a8f6ba" />
+OBJECT NOT DEDUCTED:
 
-<img width="1002" height="938" alt="image" src="https://github.com/user-attachments/assets/49d57bac-f089-4123-bc08-7546c8a5ab40" />
+<img width="690" height="918" alt="image" src="https://github.com/user-attachments/assets/e8c4fad3-c72f-48ef-92ab-05cd8c3552f8" />
+
+OBJECT DEDUCTED:
+
+<img width="572" height="1280" alt="image" src="https://github.com/user-attachments/assets/b2667bc7-5f50-49c5-86cc-7a8861085f62" />
+
 
 ## Result
 
